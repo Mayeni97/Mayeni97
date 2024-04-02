@@ -9,7 +9,7 @@ As a Computer Science student at the University of Delaware, I've been on a codi
 *   🌍  I'm based in Delaware
 *   ✉️  You can contact me at [Mayeni97@gmail.com](mailto:Mayeni97@gmail.com)
 *   🚀  I'm currently working on [Admin DashBoard](http://github.com/Mayeni97/Admin_Dashboard)
-*   🧠  I'm learning JS, React
+*   🧠  I'm learning TS, React
 *   🤝  I'm open to collaborating on Machine Learning Project
 *   ⚡  I like to travel alot
  
